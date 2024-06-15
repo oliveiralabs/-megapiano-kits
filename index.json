@@ -2,19 +2,19 @@
   {
     "name": "Sabian",
     "path": "online_kit_2",
-    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/4/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/4/kit.megapiano"
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/2/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/2/kit.megapiano"
   },
   {
     "name": "A7X",
     "path": "online_kit_3",
-    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/5/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/5/kit.megapiano"
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/3/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/3/kit.megapiano"
   },
   {
     "name": "Black Cymbal",
     "path": "online_kit_4",
-    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/6/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/6/kit.megapiano"
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/4/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/4/kit.megapiano"
   }
 ]
