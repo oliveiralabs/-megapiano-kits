@@ -22,5 +22,11 @@
     "path": "online_kit_5",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/5/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/5/kit.megapiano"
-  }
+  },
+  {
+    "name": "Marimba",
+    "path": "online_kit_6",
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/6/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/6/kit.megapiano"
+  },
 ]
