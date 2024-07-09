@@ -6,15 +6,21 @@
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/2/kit.megapiano"
   },
   {
-    "name": "Mega Piano",
+    "name": "Strings",
     "path": "online_kit_3",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/3/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/3/kit.megapiano"
   },
   {
-    "name": "Black Cymbal",
+    "name": "Marimba",
     "path": "online_kit_4",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/4/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/4/kit.megapiano"
+  },
+  {
+    "name": "Woodwings",
+    "path": "online_kit_5",
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/5/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/5/kit.megapiano"
   }
 ]
