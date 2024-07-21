@@ -40,6 +40,12 @@
     "path": "online_kit_8",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/8/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/8/kit.megapiano"
+  },
+  {
+    "name": "Techno Organ",
+    "path": "online_kit_9",
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/9/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/9/kit.megapiano"
   }
 
 ]
