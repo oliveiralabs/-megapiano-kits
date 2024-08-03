@@ -46,6 +46,12 @@
     "path": "online_kit_9",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/9/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/9/kit.megapiano"
+  },
+    {
+    "name": "Accordion",
+    "path": "online_kit_10",
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/10/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/10/kit.megapiano"
   }
 
 ]
