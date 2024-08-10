@@ -47,11 +47,16 @@
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/9/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/9/kit.megapiano"
   },
-    {
+  {
     "name": "Accordion",
     "path": "online_kit_10",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/10/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/10/kit.megapiano"
+  },
+  {
+    "name": "Trumpet",
+    "path": "online_kit_11",
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/11/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/11/kit.megapiano"
   }
-
 ]
