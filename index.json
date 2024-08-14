@@ -11,7 +11,7 @@
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/3/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/3/kit.megapiano"
   },
-    {
+  {
     "name": "Synth",
     "path": "online_kit_4",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/4/cover.png",
@@ -58,5 +58,11 @@
     "path": "online_kit_11",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/11/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/11/kit.megapiano"
+  },
+  {
+    "name": "main.py",
+    "path": "online_kit_12",
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/12/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/12/kit.megapiano"
   }
 ]
