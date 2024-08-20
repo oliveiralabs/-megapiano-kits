@@ -64,5 +64,11 @@
     "path": "online_kit_12",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/12/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/12/kit.megapiano"
+  },
+  {
+    "name": "Otamatone",
+    "path": "online_kit_13",
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/13/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/13/kit.megapiano"
   }
 ]
