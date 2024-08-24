@@ -70,5 +70,11 @@
     "path": "online_kit_13",
     "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/13/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/13/kit.megapiano"
+  },
+  {
+    "name": "Guitar",
+    "path": "online_kit_14",
+    "coverUrl": "https://oliveiralabs.github.io/megapiano-kits/14/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megapiano-kits/14/kit.megapiano"
   }
 ]
